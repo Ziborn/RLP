@@ -1,0 +1,11 @@
+c:\users\anders\documents\visual studio 2017\Projects\RLP\RLP\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\anders\documents\visual studio 2017\Projects\RLP\RLP\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\anders\documents\visual studio 2017\Projects\RLP\RLP\bin\Debug\netcoreapp1.1\RLP.deps.json
+c:\users\anders\documents\visual studio 2017\Projects\RLP\RLP\bin\Debug\netcoreapp1.1\RLP.runtimeconfig.json
+c:\users\anders\documents\visual studio 2017\Projects\RLP\RLP\bin\Debug\netcoreapp1.1\RLP.runtimeconfig.dev.json
+c:\users\anders\documents\visual studio 2017\Projects\RLP\RLP\bin\Debug\netcoreapp1.1\RLP.dll
+c:\users\anders\documents\visual studio 2017\Projects\RLP\RLP\obj\Debug\netcoreapp1.1\RLP.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2017\Projects\RLP\RLP\obj\Debug\netcoreapp1.1\RLP.AssemblyInfo.cs
+C:\Users\Anders\Documents\Visual Studio 2017\Projects\RLP\RLP\bin\Debug\netcoreapp1.1\RLP.pdb
+C:\Users\Anders\Documents\Visual Studio 2017\Projects\RLP\RLP\obj\Debug\netcoreapp1.1\RLP.dll
+C:\Users\Anders\Documents\Visual Studio 2017\Projects\RLP\RLP\obj\Debug\netcoreapp1.1\RLP.pdb

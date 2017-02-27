@@ -1,0 +1,18 @@
+﻿@using RLP.Models
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <h1>All customers</h1>
+    <ul>
+        @foreach (Customer cust in ViewBag.Customers)
+        {
+            <li>Company: @cust.CompanyName | Address: @cust.Address </li>
+            <hr />
+        }
+    </ul>
+    <a href="/customers/create"> Create customer</a>
+</body>
+</html>

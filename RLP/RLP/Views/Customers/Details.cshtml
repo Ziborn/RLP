@@ -1,0 +1,18 @@
+﻿@using RLP.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Details</title>
+</head>
+<body>
+    <h1>Details</h1>
+    <ul>
+        @foreach (Customer customer in ViewBag.Customers)
+        {
+            <li>
+                Id: @customer.Id<br /> Company: @customer.CompanyName<br /> Number of employees: @customer.EmployeeCount
+            </li>
+        }
+    </ul>
+</body>
+</html>
